@@ -25,7 +25,7 @@
  */
 
 var CKBUILDER_CONFIG = {
-	skin: 'moono',
+	skin: 'moonocolor',
 	preset: 'standard',
 	ignore: [
 		'.bender',
