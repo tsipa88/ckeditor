@@ -15,5 +15,7 @@
   { name: 'Inline Quotation', element: 'q' },
   { name: 'Red Block', element: 'div', attributes: { class: 'red' }, styles: { 'border': '1px solid #e9280c','padding': '40px 20px 0px 40px', 'margin': '0 0 60px 170px'} },
   { name: 'Grey Block', element: 'div', attributes: { class: 'grey' }, styles: { 'background': '#f3f3f3', 'margin-left': '210px', 'margin-bottom': '10px', 'padding': '60px' } },
-  { name: 'Number Block', element: 'div', attributes: { class: 'number' }, styles: {'background-color': 'rgba(0,200,200,0.3)'} }
+  { name: 'Number Block', element: 'div', attributes: { class: 'number' }, styles: {'background-color': 'rgba(0,200,200,0.3)'} },
+  { name: 'Leftside Image', element: 'div', attributes: { class: 'circle_image' }, styles: {'background-color': 'rgba(0,200,250,0.3)'} },
+  { name: 'Vertical Line', element: 'div', attributes: { class: 'vertical_line' }, styles: {'background-color': 'rgba(200,0,200,0.3)'} }
 ] );
