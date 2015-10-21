@@ -17,5 +17,6 @@
   { name: 'Grey Block', element: 'div', attributes: { class: 'grey' }, styles: { 'background': '#f3f3f3', 'margin-left': '210px', 'margin-bottom': '10px', 'padding': '60px' } },
   { name: 'Number Block', element: 'div', attributes: { class: 'number' }, styles: {'background-color': 'rgba(0,200,200,0.3)'} },
   { name: 'Leftside Image', element: 'div', attributes: { class: 'circle_image' }, styles: {'background-color': 'rgba(0,200,250,0.3)'} },
+  { name: 'Rectangle Image', element: 'div', attributes: { class: 'rectangle_image' } },
   { name: 'Vertical Line', element: 'div', attributes: { class: 'vertical_line' }, styles: {'background-color': 'rgba(200,0,200,0.3)'} }
 ] );
